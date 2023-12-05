@@ -3,7 +3,7 @@
 
 
 
-<p align="center"> Tela preta, desmaecendo gradualmente para a logo dos patrocinadores </p>
+_<p align="center"> Tela preta, desmaecendo gradualmente para a logo dos patrocinadores </p>_
 
 > [!NOTE]
 > LOGO PATROCINADOR MASTER, CENTRALIZADA
